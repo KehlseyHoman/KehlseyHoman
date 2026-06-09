@@ -8,7 +8,7 @@ Currently open to **Senior Frontend** or **Full Stack Engineer** roles — remot
  
 ## 🔧 What I work with
  
-**Frontend:** Angular · React · TypeScript · JavaScript · Jest · Playwright
+**Frontend:** Angular · React · TypeScript · JavaScript · Jest · Playwright  
 **Backend:** Java · Spring Boot · PostgreSQL · REST APIs · Maven  
 **DevOps:** GitHub Actions · CI/CD · Kubernetes · RHOS  
 **AI Tooling:** Agentic Workflows · Claude · Cursor
