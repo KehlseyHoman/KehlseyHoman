@@ -21,5 +21,5 @@ Angular 21 · Java/Spring Boot · PostgreSQL on Supabase · JWT Auth · Stripe (
  
 ## 📫 Reach me
 
-💼 [linkedin.com/in/kehlseyhoman](https://linkedin.com/in/kehlseyhoman)
+💼 [LinkedIn](https://www.linkedin.com/in/kehlsey-homan-55068b159/)
  
