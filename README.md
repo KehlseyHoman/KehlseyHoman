@@ -1,6 +1,6 @@
 # Hi, I'm Kehlsey 👋
  
-Senior Frontend Engineer with 7+ years of experience building enterprise-scale Angular and React applications. Most recently at General Motors, where I led frontend development across six production applications over 5.5 years.
+I'm a senior fullstack engineer with 7+ years building Angular and React applications at enterprise scale, with hands-on backend experience in Java and Spring Boot. Most recently I spent 5+ years at General Motors as a Frontend Lead, working across six production applications and owning frontend architecture on three of them. On the other three, I delivered end-to-end frontend and backend feature work, including REST API development, ranging from a two-year legacy platform rebuild to executive dashboards powered by Databricks and an LLM-powered search feature.
  
 Currently open to **Senior Frontend** or **Full Stack Engineer** roles — remote preferred.
 
