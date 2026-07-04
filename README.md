@@ -26,7 +26,7 @@ status:    Open to work — remote preferred
 based_in:  Detroit, MI
 currently: Building Offerwatch + tinkering with my portfolio site
 outside_of_code:
-  - 🎮 Gaming
+  - 🎮 Halo, co-op with my husband
   - 📚 Fantasy novels
   - 🌿 Keeping way too many houseplants alive
   - 🐕 Two very good dogs
@@ -95,24 +95,12 @@ Angular 21 · Java / Spring Boot · PostgreSQL on Supabase · JWT Auth + Google 
 ### 📊 GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KehlseyHoman&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KehlseyHoman&show_icons=true&hide_border=true&theme=tokyonight"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KehlseyHoman&layout=compact&hide_border=true&theme=tokyonight"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KehlseyHoman&hide_border=true&theme=tokyonight"/>
-</div>
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/KehlseyHoman/offerwatch/pull/27) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
-2. 💪 Opened PR [#27](https://github.com/KehlseyHoman/offerwatch/pull/27) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
-3. 🎉 Merged PR [#26](https://github.com/KehlseyHoman/offerwatch/pull/26) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
-4. 💪 Opened PR [#26](https://github.com/KehlseyHoman/offerwatch/pull/26) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
-5. 🎉 Merged PR [#25](https://github.com/KehlseyHoman/offerwatch/pull/25) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
-<!--END_SECTION:activity-->
-
+<img src="https://streak-stats.demolab.com/?user=KehlseyHoman&hide_border=true&theme=tokyonight"/>
 </div>
 
 > Stats cards above refresh live on every page load. The contribution snake below is regenerated daily by a scheduled GitHub Action — see `.github/workflows/snake.yml`.
@@ -140,5 +128,6 @@ Designed and deployed production websites for small business clients — DNS, pe
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kehlsey-homan-55068b159/)
 [![Gmail](https://img.shields.io/badge/-kehlseyh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kehlseyh@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=KehlseyHoman&label=Profile%20views&color=6366F1&style=flat-square" />
+
 </div>
- 
