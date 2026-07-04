@@ -106,6 +106,11 @@ Angular 21 · Java / Spring Boot · PostgreSQL on Supabase · JWT Auth + Google 
 <div align="center">
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#27](https://github.com/KehlseyHoman/offerwatch/pull/27) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
+2. 💪 Opened PR [#27](https://github.com/KehlseyHoman/offerwatch/pull/27) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
+3. 🎉 Merged PR [#26](https://github.com/KehlseyHoman/offerwatch/pull/26) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
+4. 💪 Opened PR [#26](https://github.com/KehlseyHoman/offerwatch/pull/26) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
+5. 🎉 Merged PR [#25](https://github.com/KehlseyHoman/offerwatch/pull/25) in [KehlseyHoman/offerwatch](https://github.com/KehlseyHoman/offerwatch)
 <!--END_SECTION:activity-->
 
 </div>
