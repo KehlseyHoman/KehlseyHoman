@@ -95,15 +95,14 @@ Angular 21 · Java / Spring Boot · PostgreSQL on Supabase · JWT Auth + Google 
 ### 📊 GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KehlseyHoman&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KehlseyHoman&layout=compact&hide_border=true&theme=tokyonight"/>
+<img width="100%" src="https://raw.githubusercontent.com/KehlseyHoman/KehlseyHoman/output/metrics.svg"/>
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=KehlseyHoman&hide_border=true&theme=tokyonight"/>
 </div>
 
-> Stats cards above refresh live on every page load. The contribution snake below is regenerated daily by a scheduled GitHub Action — see `.github/workflows/snake.yml`.
+> The metrics card and streak stats above are both regenerated daily by scheduled GitHub Actions — see `.github/workflows/metrics.yml` and `.github/workflows/snake.yml`. (We moved off `github-readme-stats.vercel.app` for the stats/languages card since its maintainer paused that public deployment.)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/KehlseyHoman/KehlseyHoman/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
