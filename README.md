@@ -26,7 +26,7 @@ status:    Open to work — remote preferred
 based_in:  Detroit, MI
 currently: Building Offerwatch + tinkering with my portfolio site
 outside_of_code:
-  - 🎮 Halo, co-op with my husband
+  - 🎮 Gaming
   - 📚 Fantasy novels
   - 🌿 Keeping way too many houseplants alive
   - 🐕 Two very good dogs
