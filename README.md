@@ -102,7 +102,7 @@ Angular 21 · Java / Spring Boot · PostgreSQL on Supabase · JWT Auth + Google 
 </picture>
 </div>
 
-> Streak stats and the contribution snake below are both static SVGs regenerated daily by scheduled GitHub Actions — see `.github/workflows/streak-stats.yml` and `.github/workflows/snake.yml`. No live third-party rendering, so nothing to go down or load slowly.
+> Streak stats and the contribution snake below are both static SVGs regenerated daily by scheduled GitHub Actions — see `.github/workflows/streak-stats.yml` and `.github/workflows/snake.yml`.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/KehlseyHoman/KehlseyHoman/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
