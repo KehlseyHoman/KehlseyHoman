@@ -95,10 +95,14 @@ Angular 21 · Java / Spring Boot · PostgreSQL on Supabase · JWT Auth + Google 
 ### 📊 GitHub stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=KehlseyHoman&hide_border=true&theme=tokyonight"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KehlseyHoman/KehlseyHoman/streak/github-streak-stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KehlseyHoman/KehlseyHoman/streak/github-streak-stats-light.svg" />
+  <img alt="GitHub streak stats" src="https://raw.githubusercontent.com/KehlseyHoman/KehlseyHoman/streak/github-streak-stats-dark.svg" />
+</picture>
 </div>
 
-> Streak stats above are refreshed live on every page load. The contribution snake below is regenerated daily by a scheduled GitHub Action — see `.github/workflows/snake.yml`.
+> Streak stats and the contribution snake below are both static SVGs regenerated daily by scheduled GitHub Actions — see `.github/workflows/streak-stats.yml` and `.github/workflows/snake.yml`. No live third-party rendering, so nothing to go down or load slowly.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/KehlseyHoman/KehlseyHoman/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
